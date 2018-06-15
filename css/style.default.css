@@ -225,7 +225,7 @@ p.social a {
   vertical-align: bottom;
 }
 
-p.social a i, p.social img {
+p.social a i {
   vertical-align: bottom;
   line-height: 38px;
 }
@@ -252,10 +252,7 @@ p.social a.email {
 p.social a.linked{
   background-color: #aaa;
 }
-p.social img{
-  width: 41px;
-  height: 41px;
-}
+
 
 /*
 *
