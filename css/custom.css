@@ -1,3 +1,4 @@
+/* skills section */
 .colorlib-skills{
   padding-top: 4em;
   padding-bottom: 9em;
@@ -96,3 +97,17 @@
       background: #4054b2; }
     .progress-bar.color-6 span {
       color: #4054b2; }
+
+/* end skills */
+
+/* Credentials section */
+
+p.para-header{
+  font-size: 1.3em;
+  font-weight: bold;
+  margin-top: 60px;
+}
+
+.school-flex{
+  display: flex;
+}
