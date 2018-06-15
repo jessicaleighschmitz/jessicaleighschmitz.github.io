@@ -1,3 +1,8 @@
+/* About */
+#about img{
+  background-color: rgba(221, 165, 177, .4);
+  /* opacity: ; */
+}
 /* skills section */
 .colorlib-skills{
   padding-top: 4em;
@@ -106,8 +111,4 @@ p.para-header{
   font-size: 1.3em;
   font-weight: bold;
   margin-top: 60px;
-}
-
-.school-flex{
-  display: flex;
 }

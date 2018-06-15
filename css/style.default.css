@@ -49,9 +49,9 @@ section {
   height: 100%;
   left: 0;
   top: 0;
-  background: #000;
+  background: #898787;
   z-index: 2;
-  opacity: 0.6;
+  opacity: 0.4;
 }
 
 .heading {
@@ -100,7 +100,7 @@ nav.navbar {
 }
 
 nav.navbar a.nav-link {
-  color: #777;
+  color: #E693AC;
   font-style: italic;
   border-bottom: 1px solid transparent;
 }
