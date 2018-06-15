@@ -188,7 +188,7 @@ SERVICES SECTION
 .services .box {
   margin-top: 20px;
 }
-/* 
+/*
 .services .icon {
   font-size: 50px;
   color: #262626;
@@ -225,7 +225,7 @@ p.social a {
   vertical-align: bottom;
 }
 
-p.social a i {
+p.social a i, p.social img {
   vertical-align: bottom;
   line-height: 38px;
 }
@@ -234,7 +234,7 @@ p.social a.facebook {
   background-color: #ccc;
 }
 
-p.social a.gplus {
+p.social a.github {
   background-color: #333;
 }
 
@@ -248,6 +248,13 @@ p.social a.instagram {
 
 p.social a.email {
   background-color: #666;
+}
+p.social a.linked{
+  background-color: #aaa;
+}
+p.social img{
+  width: 41px;
+  height: 41px;
 }
 
 /*
