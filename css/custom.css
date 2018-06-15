@@ -1,7 +1,13 @@
 /* About */
 #about img{
   background-color: rgba(221, 165, 177, .4);
-  /* opacity: ; */
+}
+
+h2.heading{
+  color: #E693AC;
+}
+.heading:after{
+  background: #E693AC;
 }
 /* skills section */
 .colorlib-skills{
@@ -67,41 +73,41 @@
     top: -22px;
     right: 0; }
   .progress-bar.color-1 {
-    background: #2c98f0; }
+    background: #ECD93B; }
     .progress-bar.color-1:after {
-      background: #2c98f0; }
+      background: #ECD93B; }
     .progress-bar.color-1 span {
-      color: #2c98f0; }
+      color: #ECD93B; }
   .progress-bar.color-2 {
-    background: #ec5453; }
+    background: #F5C948; }
     .progress-bar.color-2:after {
-      background: #ec5453; }
+      background: #F5C948; }
     .progress-bar.color-2 span {
-      color: #ec5453; }
+      color: #F5C948; }
   .progress-bar.color-3 {
-    background: #f9bf3f; }
+    background: #E262B2; }
     .progress-bar.color-3:after {
-      background: #f9bf3f; }
+      background: #E262B2; }
     .progress-bar.color-3 span {
-      color: #f9bf3f; }
+      color: #E262B2; }
   .progress-bar.color-4 {
-    background: #a84cb8; }
+    background: #E693AC; }
     .progress-bar.color-4:after {
-      background: #a84cb8; }
+      background: #E693AC; }
     .progress-bar.color-4 span {
-      color: #a84cb8; }
+      color: #E693AC; }
   .progress-bar.color-5 {
-    background: #2fa499; }
+    background: #96F6A0; }
     .progress-bar.color-5:after {
-      background: #2fa499; }
+      background: #96F6A0; }
     .progress-bar.color-5 span {
-      color: #2fa499; }
+      color: #96F6A0; }
   .progress-bar.color-6 {
-    background: #4054b2; }
+    background: #F59028; }
     .progress-bar.color-6:after {
-      background: #4054b2; }
+      background: #F59028; }
     .progress-bar.color-6 span {
-      color: #4054b2; }
+      color: #F59028; }
 
 /* end skills */
 

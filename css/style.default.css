@@ -106,11 +106,11 @@ nav.navbar a.nav-link {
 }
 
 nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover, nav.navbar a.nav-link:focus {
-  color: #333;
+  color: #ECD93B;
 }
 
 nav.navbar a.nav-link.active {
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #ECD93B;
 }
 
 nav.navbar .navbar-brand {
