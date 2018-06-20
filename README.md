@@ -7,34 +7,7 @@ This is my working personal portfolio site.
 
 # To see live:
 
- Copy and paste this URL:
-(not currently live bc i couldnt get github to do the thing that i want it to do)
-
-#self-Assessment
-
-1) My biggest concern prior to the internship interview process is needing to go back over the past course work and refresh my knowledge of key aspects. To make myself more confident I plan on making myself a study guide covering the relevant information . Technical questions and white boarding in general intimidate me so I am brushing up on common technical questions and practicing white boarding with classmates. I feel like I forget parts of important technical topics we've learned, like structuring and API call for example. Lastly, I am scared for how difficult React will be.
-
-2) I feel unprepared in the realms of knowing what an actual work day entails. At epicodus we don't spend any time going over "legacy" code, fixing or adding to it, and most of the things we complete during class are not client ready. That part will be an adjustment. I think I need more time in general to make myself a study guide, study technical questions, study design oriented questions, and polish my github. Essentially I think I need more free time to prepare myself the ways I see best fit.
-
-# Plan
-
-* polish portfolio site
-* finalize a polished resume pdf
-* make a study guide covering answers to technical white boarding questions.
-* Add keywords and concepts to the study guide
-* add screen shots of all of my best repos on github
-* practice white boarding with peers
-* study React everyday after school for an hour and a half
-
-# Work
-
-* found and manipulated a portfolio template
-* finished resume
-* finished cover letter
-
-# Reflection
-
-I made progress in the creation of my portfolio and the polishing of my resume. There was no time for the other things on my list. I see those as goals unfolding over time rather than tackleable today.
+https://jessicaleighschmitz.github.io/
 
 # Technologies Used
 
