@@ -231,26 +231,26 @@ p.social a i {
 }
 
 p.social a.facebook {
-  background-color: #ccc;
+  background-color: #E7C2CD;
 }
 
 p.social a.github {
-  background-color: #333;
+  background-color: #E85984;
 }
 
 p.social a.twitter {
-  background-color: #aaa;
+  background-color: #E693AC;
 }
 
 p.social a.instagram {
-  background-color: #999;
+  background-color: #FF9BB9;
 }
 
 p.social a.email {
-  background-color: #666;
+  background-color: #F7ACC3;
 }
 p.social a.linked{
-  background-color: #aaa;
+  background-color: #B78997;
 }
 
 

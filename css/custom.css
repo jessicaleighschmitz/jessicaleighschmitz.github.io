@@ -111,10 +111,31 @@ h2.heading{
 
 /* end skills */
 
+/* portfolio */
+
+#portfolio p{
+  font-weight: bolder;
+}
+img{
+  background-color: #E693AC;
+}
+img.img-fluid:hover{
+  opacity: .6;
+}
+
 /* Credentials section */
 
 p.para-header{
   font-size: 1.3em;
   font-weight: bold;
   margin-top: 60px;
+}
+
+/* contact */
+
+.larger{
+  font-size: 1.3rem;
+}
+.social{
+  padding-top: 70px;
 }
